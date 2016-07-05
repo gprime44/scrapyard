@@ -4,7 +4,7 @@ import requests
 import scraper
 import urllib
 
-KICKASS_URL = 'http://kickass.to'
+KICKASS_URL = 'https://kat.cr'
 
 ################################################################################
 def movie(movie_info):
